@@ -121,7 +121,7 @@ We train a few MentorNets listed below. We can think of a MentorNet as a hyper-p
 
 
 
-Note there are many more curriculums can be trained by MentorNet, for example,
+Note there are many more curriculums that can be trained by MentorNet, for example,
 prediction variance (Chang et al., 2017), implicit regularizer (Fan et al. 2017), self-paced with diversity (Jiang et al. 2014),
 sample re-weighting (Dehghani et al., 2018, Ren et al., 2018), etc.
 
